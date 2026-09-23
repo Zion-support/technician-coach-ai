@@ -17,7 +17,6 @@ AI technician coach — part of the **Zion App Network**.
 - [invoice-match-ai](https://github.com/Zion-support/invoice-match-ai) — https://ziontechgroup.com/invoice-match-ai/
 - [fleet-fuel-optimizer](https://github.com/Zion-support/fleet-fuel-optimizer) — https://ziontechgroup.com/fleet-fuel-optimizer/
 - [contract-renewal-radar](https://github.com/Zion-support/contract-renewal-radar) — https://ziontechgroup.com/contract-renewal-radar/
-- [spare-price-scout](https://github.com/Zion-support/spare-price-scout) — https://ziontechgroup.com/spare-price-scout/
 
 ---
 © 2026 Zion Tech Group · https://ziontechgroup.com/
